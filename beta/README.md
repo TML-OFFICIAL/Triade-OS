@@ -8,5 +8,3 @@
 - milestone 1/test realese
 - milestone 2/test
 - milestone 3/beta
-- final
-- special
