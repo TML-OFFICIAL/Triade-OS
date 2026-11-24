@@ -21,6 +21,7 @@ Triade OS - операционная система, написанная с н�
 ## Ссылки
 - Телеграм канал со сборками: https://t.me/TSD_TML_OFFICIAL
 - Чат: https://t.me/TSD_TML_Chat
+- YouTube канал: https://www.youtube.com/TSD_TML_OFFICIAL
 
 ## Лицензия
 GPL 3.0
