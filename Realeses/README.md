@@ -3,4 +3,4 @@
 - [TOS 15 Pro](https://github.com/TML-OFFICIAL/Triade-OS/releases/tag/tos-15-pro)
 - [TOS 15 Ultra](https://github.com/TML-OFFICIAL/Triade-OS/releases/tag/tos-15-ultra)
 
-запуск сборок читайте в основном [README](main/README.md)
+запуск сборок читайте в основном [README](https://github.com/TML-OFFICIAL/Triade-OS/blob/main/README.md)
